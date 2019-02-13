@@ -1,0 +1,23 @@
+{
+    "name": "choate/yii2-lovehaimi",
+    "type": "library",
+    "description": "Yii2 Love Hai Mi",
+    "require": {
+        "yiisoft/yii2": "^2.0",
+        "yiisoft/yii2-httpclient": "^2.0",
+        "php": ">=7.1.0"
+    },
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Choate",
+            "email": "choate.yao@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "choate\\yii2\\lovehaimi\\": "src"
+        }
+    }
+}
